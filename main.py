@@ -1,5 +1,5 @@
 shopping_dict = {
-    "piekarnia" : ['chleb', 'pączek', 'rukola'],
+    "piekarnia" : ['chleb', 'pączek', 'bułka'],
     "warzywniak" : ['marchew', 'seler', 'rukola']
 }
 X = 0
